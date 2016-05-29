@@ -6,4 +6,5 @@ import {CoursesComponent} from './courses.component'
     template: '<h1>Hey Angular 2</h1><courses></courses>',
     directives: [CoursesComponent]
 })
-export class AppComponent { }
+export class AppComponent {    
+}
